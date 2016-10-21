@@ -1,5 +1,5 @@
-id=xposed_23_miui
-name=Xposed Framework for MIUI (SDK 23)
+id=xposed_21_miui
+name=Xposed Framework for MIUI (SDK 21)
 version=86 (Systemless by topjohnwu and aviraxp)
 versionCode=86
 author=rovo89, SolarWarez and topjohnwu
